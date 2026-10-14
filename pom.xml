@@ -15,8 +15,10 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>25</maven.compiler.release>
+        <maven.compiler.source>25</maven.compiler.source>
+        <maven.compiler.target>25</maven.compiler.target>
         <junit.version>5.11.4</junit.version>
-        <jackson.version>2.18.2</jackson.version>
+        <jackson.version>2.22.3</jackson.version>
     </properties>
 
     <dependencies>
